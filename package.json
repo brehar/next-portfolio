@@ -1,0 +1,16 @@
+{
+	"name": "next-portfolio",
+	"version": "0.0.1",
+	"description": "A portfolio app built with React and Next.js",
+	"main": "pages/index.js",
+	"scripts": {
+		"dev": "next"
+	},
+	"author": "Brett Hartman <brett.hartman@mac.com> (https://github.com/brehar)",
+	"license": "MIT",
+	"dependencies": {
+		"next": "^7.0.2",
+		"react": "^16.6.3",
+		"react-dom": "^16.6.3"
+	}
+}
