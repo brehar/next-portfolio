@@ -1,6 +1,6 @@
 {
 	"name": "next-portfolio",
-	"version": "0.0.1",
+	"version": "1.0.0",
 	"description": "A portfolio app built with React and Next.js",
 	"main": "pages/index.js",
 	"scripts": {
