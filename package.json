@@ -4,7 +4,10 @@
 	"description": "A portfolio app built with React and Next.js",
 	"main": "pages/index.js",
 	"scripts": {
-		"dev": "next"
+		"dev": "next",
+		"build": "next build",
+		"export": "next export",
+		"deploy": "cd out && now --public"
 	},
 	"author": "Brett Hartman <brett.hartman@mac.com> (https://github.com/brehar)",
 	"license": "MIT",

@@ -9,7 +9,7 @@ class Post extends Component {
 
 		return (
 			<Layout title={router.query.title}>
-				<p>
+				<p style={{ width: '80vw' }}>
 					Peritus buxum virtualiter resuscitabos lacta est. Historias credere in regius divio! Consiliums
 					observare in varius copinga! Eheu, planeta! Gemna volares, tanquam lotus castor. Pol, a bene navis.
 				</p>
